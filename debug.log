@@ -1,0 +1,7 @@
+[1210/164043.387:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1210/171021.198:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1211/155106.060:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1212/110515.602:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[1212/111515.650:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1216/170615.383:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1216/174202.846:ERROR:file_io.cc(135)] WriteFile: The pipe is being closed. (0xE8)
